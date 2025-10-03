@@ -1,5 +1,5 @@
 {
   "globalExpiryDays": 14,
-  "forceExpired": true,
+  "forceExpired": false,
   "lastUpdated": "2025-10-02"
 }
